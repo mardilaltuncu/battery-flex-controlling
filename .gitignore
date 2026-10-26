@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+kaggle/
+data/energy_charts/_cache/
+outputs/cache/
